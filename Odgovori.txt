@@ -1,0 +1,6 @@
+Pitanje: što radi linija koda client_socket.connect((host,port))?
+Odgovor: vrsi spajanje 
+
+Pitanje: U serverskom dijelu vašeg programa, što znači drugi broj u
+zagradama kod ispisa „Got connection…“?
+Odgovor: broj porta
